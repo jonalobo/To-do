@@ -1,0 +1,13 @@
+el programa to do debe ingresar las tareas al software en pantalla, mostrarlas en la lista dentro del DOM, cada tarea será mostrada con un color que represente su prioridad siendo
+esta de la siguiente forma(Verde) prioridad baja (Café) prioridad media (Rojo) prioridad alta.
+Una vez ingresada, estas mostrarán 2 opciones entre las cuales estan eliminar la tarea y editar la misma.
+
+La función eleminar debe eliminar la tarea de la lista.
+La función editar debe cargar la tarea al input para editarla y volver añadir la actualización, en donde tambien se podrá editar su prioridad.
+
+
+
+Además se debe priorizar la persistencia de los datos ingresados, Logrando así que al cargar el DOM se muestre el contenido en memoria.
+Este mismo proyecto será utilizado pára el curso de IndexDB de Javascript pero por el momento utilizaremos el localstorage.
+
+La finalidad del proyecto es SIMULAR LAS OPERACIONES BÁSICAS A UNA BASE DE DATOS.
